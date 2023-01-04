@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://silwite.github.io/csb-qke4tt/static/js/main.3b9a3e7b.chunk.js",
+    "main.js.map": "https://silwite.github.io/csb-qke4tt/static/js/main.3b9a3e7b.chunk.js.map",
+    "runtime-main.js": "https://silwite.github.io/csb-qke4tt/static/js/runtime-main.98038f87.js",
+    "runtime-main.js.map": "https://silwite.github.io/csb-qke4tt/static/js/runtime-main.98038f87.js.map",
+    "static/js/2.4fc658ef.chunk.js": "https://silwite.github.io/csb-qke4tt/static/js/2.4fc658ef.chunk.js",
+    "static/js/2.4fc658ef.chunk.js.map": "https://silwite.github.io/csb-qke4tt/static/js/2.4fc658ef.chunk.js.map",
+    "index.html": "https://silwite.github.io/csb-qke4tt/index.html",
+    "precache-manifest.6ffff538ad3ab7dc01f17455e894adc2.js": "https://silwite.github.io/csb-qke4tt/precache-manifest.6ffff538ad3ab7dc01f17455e894adc2.js",
+    "service-worker.js": "https://silwite.github.io/csb-qke4tt/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98038f87.js",
+    "static/js/2.4fc658ef.chunk.js",
+    "static/js/main.3b9a3e7b.chunk.js"
+  ]
+}
